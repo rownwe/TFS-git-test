@@ -3,3 +3,5 @@ New file in master branch
 Stash changes
 
 v2.0 changes
+
+Changes that will be pushed to the remote repo
